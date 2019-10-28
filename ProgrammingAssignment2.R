@@ -60,3 +60,6 @@ cacheSolve(xMatrix) #apply calcul on the x and cache it
 inv <- xMatrix$getinv() #return the value in cache without using cacheSolve fucntion
 
 inv
+
+## https://github.com/lgreski/datasciencectacontent/blob/master/markdown/rprog-breakingDownMakeVector.md
+## usefull link found in the discussion to understand how works the vector exemple
